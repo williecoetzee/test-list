@@ -199,4 +199,7 @@ h2 {
     right: 0px;
 }
 
-
+li>a.tappable-active {
+    color: #fff;
+    background-color: #4286f5;
+}
